@@ -1,0 +1,20 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8384F5",
+    "servers": [
+      {
+        "server_address": "us-west.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+
+    "fake_gps": true,
+    "ref_latitude": 44.41452994,
+    "ref_longitude": -79.69889739,
+    "ref_altitude": 50,
+    "contact_email": "calvin.hitch@trca.ca",
+    "description": "TTN provided by Toronto and Region Conservation Authority"
+  }
+}
